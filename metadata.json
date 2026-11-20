@@ -1,0 +1,6 @@
+{
+  "name": "Tap Away 3D — Arrow Cube Puzzle",
+  "description": "Минималистичная 3D-головоломка: вращайте куб и освобождайте блоки по направлению стрелок.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
